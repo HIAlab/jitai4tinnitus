@@ -1,0 +1,1 @@
+This is the central repository for the JITAI4Tinnitus challenge at HPI Hackathon 2025. It contains the data and references that may be used for informing the design of a decision rule/agent for prescribing interventions. The repository can also be used to push any solutions/further resources.
