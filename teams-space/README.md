@@ -1,0 +1,1 @@
+This folder may be used by all teams for sharing.
